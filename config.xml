@@ -7,7 +7,7 @@
 		<name>BDS News App</name>
 		<description>BDS News App</description>
 		<author href="http://bytecity.de" email="post@bytecity.eu">bytecity</author>
-		<preference name="phonegap-version" value="3.6.3" />
+		<preference name="phonegap-version" value="cli-6.0.0" />
 		<preference name="orientation" value="portrait" />
 		<preference name="fullscreen" value="true" />
 		<preference name="target-device" value="universal" />
